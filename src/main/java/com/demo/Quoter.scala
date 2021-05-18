@@ -1,5 +1,7 @@
 package com.demo
 
 trait Quoter {
-  def printMessage():Unit
+
+  def printMessage(): Unit
+
 }
